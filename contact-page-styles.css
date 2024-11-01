@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+
+}
+
+body {
+  overflow-x: hidden
+}
+
+.contact-deets div {
+  display: flex;
+}
+
+.contact-deets div i {
+  margin-right: 20px;
+  color: rgb(241, 89, 81);
+  padding: 20px;
+
+}
+
+.contact-deets {
+  padding-top: 10px;
+}
+
+.for-columni input,
+.for-columni textarea {
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 17px;
+  outline: none;
+  border: 1px solid #88d8fd;
+  box-sizing: border-box;
+  background: #dca9f5;
+}
